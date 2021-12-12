@@ -1,0 +1,7 @@
+*.txt
+
+!c.txt
+
+node/*
+
+!node/a.js
